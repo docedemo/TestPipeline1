@@ -158,7 +158,7 @@
         <label>DemoableObject Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>DemoableObjects</pluralLabel>
+    <pluralLabel>DemoableObjectsS</pluralLabel>
     <searchLayouts></searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
